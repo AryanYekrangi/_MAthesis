@@ -5,7 +5,7 @@ The sub-folder Experiment contains the Python files written for section 4.1 of t
 
 Files <br/>
 - Experiment 1
-│   ├── knn.py <br/>
+    - knn.py <br/>
 │   ├── linear regression.py <br/>
 │   ├── svm_linear.py <br/>
 │   ├── svm_pol.py <br/>
