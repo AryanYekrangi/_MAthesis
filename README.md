@@ -6,19 +6,19 @@ The sub-folder Experiment contains the Python files written for section 4.1 of t
 Files <br/>
 - Experiment 1
     - knn.py <br/>
-│   ├── linear regression.py <br/>
-│   ├── svm_linear.py <br/>
-│   ├── svm_pol.py <br/>
-│   └── svm_rbf.py <br/>
+    - linear regression.py <br/>
+    - svm_linear.py <br/>
+    - svm_pol.py <br/>
+    - svm_rbf.py <br/>
 - Experiment 2 <br/>
-│   ├── Cross Validation <br/>
-│   │   ├── crossval_knn.py <br/>
-│   │   ├── crossval_svmp.py <br/>
-│   │   └── crossval_svmr.py <br/>
-│   └── MAE <br/>
-│       ├── knn_crossval_MAE.py <br/>
-│       ├── svmp_crossval_MAE.py <br/>
-│       └── svmr_crossval_MAE.py <br/>
+    - Cross Validation <br/>
+       - crossval_knn.py <br/>
+        - crossval_svmp.py <br/>
+        - crossval_svmr.py <br/>
+    - MAE <br/>
+        - knn_crossval_MAE.py <br/>
+        - svmp_crossval_MAE.py <br/>
+        - svmr_crossval_MAE.py <br/>
 - Feature Selection <br/>
-    ├── ANOVA F-test_feature selection.py <br/> 
-    └── correlation scores_feature selection.py <br/>
+    - ANOVA F-test_feature selection.py
+    - correlation scores_feature selection.py
