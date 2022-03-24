@@ -14,6 +14,6 @@ University of Eastern Finland, MA Linguistic Data Sciences
 
 - The sub-folder Feature Selection contains two Python files
 
-References:
+References: </br>
 The CEFR-J Wordlist Version 1.6. Compiled by Yukio Tono, Tokyo University of Foreign Studies. Retrieved from http://cefr-j.org/download.html on 07/06/2021.
 Gardner, D., & Davies, M. (2014). A new academic vocabulary list. Applied linguistics, 35(3), 305-327. Retrieved from https://www.academicvocabulary.info/download.asp on 11/06/2021.
